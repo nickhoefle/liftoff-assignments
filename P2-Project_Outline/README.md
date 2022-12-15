@@ -58,4 +58,5 @@ for a user to "follow" another user's collections.
 ### Project Tracker
 
 Wireframe Link: https://noah510741.invisionapp.com/freehand/Untitled-HkW5WkL8i?inviteToken=871180-4c4837af6c31324c045d931c0749f12f&dsid_h=6a89998e2a1cf79cd9df255d32eb324137873940126469541067bac9192f31cf
+
 Trello Link: https://trello.com/b/soben9IU/lasersharksliftoff
