@@ -12,11 +12,8 @@ The back end is in Java based. We are using Spring Boot with the following setti
 ![image](https://user-images.githubusercontent.com/103348844/207985361-8d165f94-982a-4d43-8ddf-ce88f8147de7.png)
 
 * Spring Web
-
 * Springboot Dev Tools
-
 * Validation
-
 * For the purpose of data collection we are using MySQL
 
 ## MySQL Database Set-Up Instructions ##
