@@ -8,12 +8,21 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+The following url includes wireframes for:
+* User Profiles
+* Lists
+* The Homepage
+* [Movie/game/book] Details
+
+https://noah510741.invisionapp.com/freehand/Untitled-HkW5WkL8i?inviteToken=871180-4c4837af6c31324c045d931c0749f12f&dsid_h=6a89998e2a1cf79cd9df255d32eb324137873940126469541067bac9192f31cf
+
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Collector's Corner Trello Board:
+
+https://trello.com/b/soben9IU/lasersharksliftoff
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/Dec-22-LC-LiftOff-STL/CollectorsCorner
